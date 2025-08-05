@@ -1,0 +1,1 @@
+# Google-Colab-File-Fire-Risk-Prediction-System
